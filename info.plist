@@ -169,7 +169,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>searching available devices...</string>
 				<key>script</key>
 				<string>./listDevices.js</string>
 				<key>scriptargtype</key>
@@ -179,7 +179,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>Open Safari Web Inspector</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -242,37 +242,37 @@
 		<key>108A49CC-D7DF-4AAE-8290-77384DC84D5C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>680</integer>
 			<key>ypos</key>
-			<integer>120</integer>
+			<integer>140</integer>
 		</dict>
 		<key>62452D9E-C2E8-4176-8F96-22673F738AA2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<integer>350</integer>
 			<key>ypos</key>
-			<integer>160</integer>
+			<integer>180</integer>
 		</dict>
 		<key>7DD3BDE5-A157-42E5-9376-F681FB50A4EE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>160</integer>
 			<key>ypos</key>
-			<integer>80</integer>
+			<integer>100</integer>
 		</dict>
 		<key>AF55172A-8E05-47DB-849B-CA1F6D318364</key>
 		<dict>
 			<key>xpos</key>
-			<integer>360</integer>
+			<integer>440</integer>
 			<key>ypos</key>
-			<integer>20</integer>
+			<integer>40</integer>
 		</dict>
 		<key>FDE86926-3303-4B5F-AE8E-BD9B05B41436</key>
 		<dict>
 			<key>xpos</key>
-			<integer>250</integer>
+			<integer>330</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>70</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
