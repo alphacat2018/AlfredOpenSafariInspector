@@ -2,7 +2,7 @@
  * @Author: caidwang hust_wsc@163.com
  * @Date: 2022-11-18 21:00:33
  * @LastEditors: caidwang hust_wsc@163.com
- * @LastEditTime: 2022-11-18 23:06:52
+ * @LastEditTime: 2022-11-18 23:20:38
  * @FilePath: /AlfredOpenSafariInspector/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -16,7 +16,7 @@ README [EN](README_en.md)|[中文](README.md)
 
 # 快速上手
 
-下载[Release](https://github.com/caidwang/AlfredOpenSafariInspector/releases/tag/CN_zh)，双击`Open Safari Inspector.alfredworkflow`进行安装。
+下载[Release](https://github.com/caidwang/AlfredOpenSafariInspector/releases/tag/CN_zh2)，双击`Open Safari Inspector.alfredworkflow`进行安装。
 
 默认快捷键：
 ```script
