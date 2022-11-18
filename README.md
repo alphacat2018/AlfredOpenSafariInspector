@@ -41,7 +41,7 @@ brew install node
 
 ## Safari Develop menu
 If you can't find Develop menu in Safari, open it with Safari > Preference > Advanced > Show develop menu in menu bar
-<img src='Screen Shot 2022-11-18 at 22.04.40.png'>
+<img src='img/Screen Shot 2022-11-18 at 22.04.40.png'>
 
 # Reference
 - https://github.com/alphacat2018/AlfredOpenSafariInspector
