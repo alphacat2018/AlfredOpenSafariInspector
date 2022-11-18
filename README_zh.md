@@ -2,7 +2,7 @@
  * @Author: caidwang hust_wsc@163.com
  * @Date: 2022-11-18 21:00:33
  * @LastEditors: caidwang hust_wsc@163.com
- * @LastEditTime: 2022-11-18 22:28:49
+ * @LastEditTime: 2022-11-18 22:33:34
  * @FilePath: /AlfredOpenSafariInspector/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -42,7 +42,7 @@ brew install node
 
 ## Safari 开发 菜单
 如果在Safari菜单中找不到 开发 菜单，可以通过 Safari > 偏好 > 高级 > 在菜单栏展示“开发” 打开
-<img src='img/Screen Shot 2022-11-18 at 22.04.40.png'>
+<img src='img/Screen Shot 2022-11-18 22.31.39.png'>
 
 # 问题定位
 当遇到安装完成后执行快捷键不生效的情况，可以通过以下方式查看日志定位问题
